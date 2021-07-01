@@ -1,6 +1,4 @@
-# Project Title
-
-Discord bot built in NodeJS
+# Discord bot built in NodeJS
 
 ## Description
 

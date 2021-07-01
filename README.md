@@ -12,6 +12,7 @@ between 1 and 100.
 ### Dependencies
 
 Node
+
 Discord account
 
 ### Installing
